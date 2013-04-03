@@ -1,0 +1,5 @@
+{
+    "version": 1.0,
+    "download_uri": "https://github.com/oderwat/alfredworkflows/raw/master/Rename%20File.alfredworkflow",
+    "description": "File action to rename files (based on David Ferguson's version)"
+}
