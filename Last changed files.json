@@ -1,5 +1,5 @@
 {
     "version": 1.5,
-    "download_uri": "https://github.com/oderwat/alfredworkflows/blob/master/Last%20changed%20files.alfredworkflow",
-    "description": "Added Alleyoop and supress files with .opt extension (mysql again)."
+    "download_uri": "https://github.com/oderwat/alfredworkflows/raw/master/Last%20changed%20files.alfredworkflow",
+    "description": "Added Alleyoop, fixed listing order (again). Filter files with .opt extension (mysql)."
 }
