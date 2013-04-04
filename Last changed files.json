@@ -1,5 +1,5 @@
 {
-    "version": 1.7,
-    "download_uri": "https://github.com/oderwat/alfredworkflows/raw/master/Last%20changed%20files.alfredworkflow",
-    "description": "Changed how files are chosen to include files recently created even if they have an old timestamp. Added Microsoft Office Support files to the blacklist. Added Parallels VM Files to the Blacklist."
+    "version": 1.8,
+    "download_url": "https://github.com/oderwat/alfredworkflows/raw/master/Last%20changed%20files.alfredworkflow",
+    "description": "Updated to new Alleyoop System!"
 }
