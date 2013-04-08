@@ -1,5 +1,5 @@
 {
-    "version": 1.8,
+    "version": 1.9,
     "download_url": "https://github.com/oderwat/alfredworkflows/raw/master/Last%20changed%20files.alfredworkflow",
-    "description": "Updated to new Alleyoop System!"
+    "description": "Fixed problem with missing files when they have the same timestamp!"
 }
