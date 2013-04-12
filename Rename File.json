@@ -1,5 +1,5 @@
 {
-    "version": 1.0,
-    "download_uri": "https://github.com/oderwat/alfredworkflows/raw/master/Rename%20File.alfredworkflow",
-    "description": "File action to rename files (based on David Ferguson's version)"
+    "version": 1.1,
+    "download_url": "https://github.com/oderwat/alfredworkflows/raw/master/Rename%20File.alfredworkflow",
+    "description": "Visible rename confimation. Fixed renaming of files with spaces in name. CMD Return on rename now copies the resulting file path to the clipboard."
 }
