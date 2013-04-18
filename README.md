@@ -8,7 +8,7 @@ Alfred 2 Workflows created by Hans Raaf.
 
 [Rename file action](http://www.alfredforum.com/topic/1779-rename-file-action/) - Renames files from the file browser of Alfred 2.
 
-[Window arrangement workflow](http://www.alfredforum.com/topic/1737-window-arrangement-workflow/) - Protype for workflows which can rearrange windows and even start Apps first.
+[Window arrangement workflow](http://www.alfredforum.com/topic/1737-window-arrangement-workflow/) - Prototype for workflows which can rearrange windows and even start Apps first.
 
 Use freely at your own risks!
 
