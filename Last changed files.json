@@ -1,5 +1,5 @@
 {
-    "version": 1.11,
+    "version": 1.12,
     "download_url": "https://github.com/oderwat/alfredworkflows/raw/master/Last%20changed%20files.alfredworkflow",
-    "description": "Yet another method to fix the result order! Added 'Docoments/My Games' to blacklist."
+    "description": "With the new Alfred 2 Update it is finally possible to fix the result order in a supported way (I modified workflow.php to support that)."
 }
