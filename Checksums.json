@@ -1,5 +1,5 @@
 {
     "version": 1.0,
-    "download_url": "https://github.com/oderwat/alfredworkflows/raw/master/Checksum.alfredworkflow",
+    "download_url": "https://github.com/oderwat/alfredworkflows/raw/master/Checksums.alfredworkflow",
     "description": "Calculate useful checksums of a file implemented as file action"
 }
