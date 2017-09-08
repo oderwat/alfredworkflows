@@ -1,14 +1,16 @@
-#Alfredworkflows
+# Alfred 3 Workflows:
 
-## Alfred 3 Workflows:
+## Bear Notes Search
 
 [Bear Notes Search (Download)](https://github.com/oderwat/alfredworkflows/raw/master/Bear%20Notes%20Search.alfredworkflow) - Lets you search for notes in the great [Bear](www.bear-writer.com/) application.
 
-* Use spaces to separate words: this that
-* Use quotes to search for the phrase: "this that"
-* Use + to "requite" a word: this +that
-* Use - to "exclude" a word: this -that
-* Use * to search for "any string"
+* Use spaces to separate for any one of multiple words: 'this that'.
+* Use quotes to search for the phrase: '"this that"'
+* Use + to "require" a word: 'this +that'
+* Use - to "exclude" a word: 'this -that'
+* Use * to allow any characters in that place: #*/test (notes which have a subtag ending on test)
+
+Remember that Bear stores its notes as raw markdown like text. Use this to your advantage in searches.
 
 ### Example 1:
 
